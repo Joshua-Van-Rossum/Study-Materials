@@ -1,4 +1,8 @@
 Hint,Answer,Category
-"What is the capital of France?","Paris","Geography"
-"What is the largest mammal?","Blue Whale","Biology"
-"What is the boiling point of water?","100 degrees Celsius","Chemistry"
+"What is Amazon Elastic Beanstalk?","AWS Elastic Beanstalk is a Platform as a Service (PaaS) offered by Amazon Web Services that lets you quickly deploy and manage web applications and services without having to worry about the infrastructure behind them. Elastic Beanstalk handles Provisioning of servers, Load balancing, Auto scaling, Monitoring and health checks, Application deployment","AWS"
+"What are the steps of the STAR process?","Situation, Task, Action, Result","General Interview"
+"How do you approach debugging a problem in your code?", "1. Identify the problem: Understand what the issue is and gather information about it. 2. Reproduce the issue: Try to recreate the problem to see it in action.3. Isolate the cause: Narrow down where the problem is occurring in your code.4. Fix the issue: Make changes to your code to resolve the problem.5. Test the fix: Ensure that the fix works and does not introduce new issues.","Engineering Interview"
+"Qualitative vs Quantitative Data","Quantitative data is numbers-based, countable, or measurable. Qualitative data is interpretation-based, descriptive, and relating to language","Statistics"
+"Can you explain the difference between a depth-first search (DFS) and a breadth-first search (BFS)?","Depth-first search (DFS) explores as far as possible along each branch before backtracking, while breadth-first search (BFS) explores all neighbors at the present depth prior to moving on to nodes at the next depth level.","Algorithms"
+"What is the difference between supervised and unsupervised learning?","Supervised learning uses labeled data to train models, while unsupervised learning finds patterns in unlabeled data.","AI/Machine Learning"
+"What is Pivoting?","Pivoting is a technique used in data analysis to reorganize and summarize data, often used in spreadsheets and databases to create a new view of the data by aggregating and rearranging it based on specific criteria.","Data Analysis"

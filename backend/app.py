@@ -4,6 +4,7 @@ import pandas as pd
 import random
 
 app = Flask(__name__)
+CORS(app)
 
 # Load the CSV data once at app start
 df = pd.read_csv("../Database/cards.csv")
